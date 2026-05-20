@@ -1,6 +1,30 @@
 # Rafael García Gallego
 
-**AI Automation & Business Process Consultant**
+Hi, I'm Rafael 👋 
+
+**AI Implementation Specialist for Financial Health & Inclusion** and AI Taskforce member at BFA Global · LatAm + Africa · Open to remote roles  
+## What I do  
+I build AI workflows and automation systems that work in production — not demos. My focus is at the intersection of AI implementation and financial inclusion programs.  Currently I own the delivery of 3 AI workflows at BFA Global: 
+- **Client Pipeline Builder** — ABM automation with account signal scoring
+- **RFP Intelligence Agent** — RFP fit assessment and response strategy
+- **Auto Extract Funding Opportunities** — Automated lead extraction
+
+## What you'll find here
+This GitHub is a **portfolio of low-code and AI integration work**, not traditional software engineering output. Most projects are built with combinations of:  
+- Lovable / Cursor (frontend prototyping)
+- Supabase (backend / data)
+- n8n self-hosted (automation workflows)
+- Claude API + OpenAI API (LLM systems)
+- Python (basic, for scripts and data processing)
+
+I'm transparent about my technical level: I'm not a software engineer. I'm an AI implementer who reads code, modifies it, ensembles systems with AI assistants, and documents what works in production.  
+
+## My background  
+- 5+ years at BFA Global as Project Manager, financial modeler and AI Implementation Specialist
+- Co-author of "Maximizing the credit potential in Mexican financial cooperatives" (Portal FinDev, CGAP, 2023) — 2nd most-read publication in 2023
+- Programs delivered: FinnSalud (MetLife Foundation), Strive Mexico (Mastercard Center), BMGF unit costing (Kenya, Nigeria, Ethiopia), Catalyst Fund, Jobtech Alliance
+
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ragarciaga)
 
@@ -152,4 +176,4 @@ I work with organizations that need to go from manual processes to automated, AI
 
 ---
 
-*Last updated: March 2026*
+*Last updated: May 2026*
