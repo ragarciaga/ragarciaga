@@ -4,10 +4,10 @@ Hi, I'm Rafael 👋
 
 **AI Implementation Specialist for Financial Health & Inclusion** and AI Taskforce member at BFA Global · LatAm + Africa · Open to remote roles  
 ## What I do  
-I build AI workflows and automation systems that work in production — not demos. My focus is at the intersection of AI implementation and financial inclusion programs.  Currently I own the delivery of 3 AI workflows at BFA Global: 
-- **Client Pipeline Builder** — ABM automation with account signal scoring
-- **RFP Intelligence Agent** — RFP fit assessment and response strategy
-- **Auto Extract Funding Opportunities** — Automated lead extraction
+I build AI workflows and automation systems that work in production, not demos. My focus is at the intersection of AI implementation and financial inclusion programs.  Currently I own the delivery of 3 AI workflows at BFA Global: 
+- **Client Pipeline Builder** - ABM automation with account signal scoring
+- **RFP Intelligence Agent** - RFP fit assessment and response strategy
+- **Auto Extract Funding Opportunities** - Automated lead extraction
 
 ## What you'll find here
 This GitHub is a **portfolio of low-code and AI integration work**, not traditional software engineering output. Most projects are built with combinations of:  
@@ -17,11 +17,15 @@ This GitHub is a **portfolio of low-code and AI integration work**, not traditio
 - Claude API + OpenAI API (LLM systems)
 - Python (basic, for scripts and data processing)
 
-I'm transparent about my technical level: I'm not a software engineer. I'm an AI implementer who reads code, modifies it, ensembles systems with AI assistants, and documents what works in production.  
+I came to software from finance and operations, which shapes how I work: I start from the business process, decide what's actually worth building, and then build it. I use AI assistants heavily in the process, and I own the architecture and the review.
+
+## Independent work
+
+Alongside my role at BFA Global, I've built production systems for organizations in financial services, logistics, agriculture, and education across Latin America, the US, and the Caribbean. Most of these projects replace spreadsheet-driven operations with systems that run with minimal manual intervention.
 
 ## My background  
 - 5+ years at BFA Global as Project Manager, financial modeler and AI Implementation Specialist
-- Co-author of "Maximizing the credit potential in Mexican financial cooperatives" (Portal FinDev, CGAP, 2023) — 2nd most-read publication in 2023
+- Co-author of "Maximizing the credit potential in Mexican financial cooperatives" (Portal FinDev, CGAP, 2023), 2nd most-read publication in 2023
 - Programs delivered: FinnSalud (MetLife Foundation), Strive Mexico (Mastercard Center), BMGF unit costing (Kenya, Nigeria, Ethiopia), Catalyst Fund, Jobtech Alliance
 
 ## Get in touch
@@ -30,19 +34,17 @@ I'm transparent about my technical level: I'm not a software engineer. I'm an AI
 
 ---
 
-I build the full stack behind business automation — the web application, the AI backend, and the workflow engine that connects them. I work with clients in financial services, logistics, agriculture, and education across the US, Latin America, and the Caribbean. Most of my projects replace spreadsheet‑driven operations with production systems that run with minimal manual intervention.
-
-Previously, I held corporate roles at multinational companies in Latin America. I now focus on applied AI consulting, where I design and deliver automation solutions for organizations ranging from credit unions to international development programs.
+I build the full stack behind business automation, the web application, the AI backend, and the workflow engine that connects them. I work with clients in financial services, logistics, agriculture, and education across the US, Latin America, and the Caribbean. Most of my projects replace spreadsheet‑driven operations with production systems that run with minimal manual intervention.
 
 ---
 
 ## Featured Projects
 
-These are end-to-end systems I designed and built — including the web application, the AI/automation backend, and the integrations between them.
+These are end-to-end systems I designed and built, including the web application, the AI/automation backend, and the integrations between them.
 
 ---
 
-### 🎓 Maysachart — AI Trading Tutor
+### 🎓 Maysachart - AI Trading Tutor
 > Full-stack EdTech SaaS that teaches retail traders methodology through an AI tutor backed by 40+ proprietary documents.
 
 **The problem:** Beginner traders buy courses but can't apply what they learned facing a real chart. Human mentoring doesn't scale, and existing tools offer signals, not education.
@@ -53,46 +55,46 @@ These are end-to-end systems I designed and built — including the web applicat
 
 🔗 [Live app](https://maysachart.com)
 
-![MaysaChart](https://raw.githubusercontent.com/ragarciaga/portfolio/main/screenshots/maysachart.png)
+![MaysaChart](https://github.com/ragarciaga/portfolio/blob/main/maysachart.png)
 
 ---
 
 ### 📊 Financial Modeling Assistant
-> AI-powered platform that lets entrepreneurs create investor-ready 5-year financial projections in minutes — or upload existing models for automated analysis.
+> AI-powered platform that lets entrepreneurs create investor-ready 5-year financial projections in minutes, or upload existing models for automated analysis.
 
 **The problem:** Early-stage founders in Latin America's accelerator ecosystem lack the financial modeling expertise to build structured forecasts. Existing tools are too complex, too generic, or too expensive.
 
-**What I built:** A guided web application with sector-specific workflows (SaaS, Marketplace, E-commerce, and several other verticals). Users fill in business inputs through a 5-tab form; the N8N backend (3 workflows) processes the data, generates a complete projection in Google Sheets, and returns AI-generated analysis with key metrics, findings, and recommendations. A second path lets users upload existing Excel/PDF models — the backend extracts, chunks, and vectorizes the content, then runs an AI agent to produce structured analysis. A persistent chat agent answers follow-up questions using the model's context and conversation memory.
+**What I built:** A guided web application with sector-specific workflows (SaaS, Marketplace, E-commerce, and several other verticals). Users fill in business inputs through a 5-tab form; the N8N backend (3 workflows) processes the data, generates a complete projection in Google Sheets, and returns AI-generated analysis with key metrics, findings, and recommendations. A second path lets users upload existing Excel/PDF models, the backend extracts, chunks, and vectorizes the content, then runs an AI agent to produce structured analysis. A persistent chat agent answers follow-up questions using the model's context and conversation memory.
 
 **Integrations:** Supabase (PostgreSQL, pgvector, Storage), OpenAI (GPT-4o-mini + embeddings), Google Drive, Google Sheets, N8N
 
-![Financial Modeling Tool](https://raw.githubusercontent.com/ragarciaga/portfolio/main/screenshots/jta_modeling_tool.png)
+![Financial Modeling Tool](https://github.com/ragarciaga/portfolio/blob/main/jta_modeling_tool.png)
 
 ---
 
-### 🚢 Caribbean Xpress — Shipping Management Platform
+### 🚢 Caribbean Xpress - Shipping Management Platform
 > Multi-role logistics platform for Caribbean food package delivery, serving agents, fulfillment partners, and administrators across 4 portals.
 
-**The problem:** A food shipping operation across the Caribbean ran on spreadsheets, phone calls, and WhatsApp — leading to lost orders, credit disputes, and no visibility into fulfillment status.
+**The problem:** A food shipping operation across the Caribbean ran on spreadsheets, phone calls, and WhatsApp - leading to lost orders, credit disputes, and no visibility into fulfillment status.
 
 **What I built:** A complete order-to-delivery platform with 4 role-based portals. Agents place orders through a guided wizard that auto-deducts from their prepaid credit. Orders route automatically to the fulfillment company matching the receiver's region. Master agents oversee agent networks. Admins manage the full ecosystem: credit limits, commissions, packages, analytics, and change request approvals. Includes real-time notifications via Supabase Edge Functions.
 
 **Integrations:** Supabase (Auth, PostgreSQL, Edge Functions, RLS, Realtime), Resend (email)
 
-![Caribbean](https://raw.githubusercontent.com/ragarciaga/portfolio/main/screenshots/caribbean_xpress.png)
+![Caribbean](https://github.com/ragarciaga/portfolio/blob/main/caribbean_xpress.png)
 
 ---
 
-### 🏢 Copain ERP — Cloud ERP for Colombian SMBs
-> Full-stack cloud ERP covering sales, purchasing, inventory, treasury, payroll, and tax compliance — with automated IVA calculation.
+### 🏢 Copain ERP - Cloud ERP for Colombian SMBs
+> Full-stack cloud ERP covering sales, purchasing, inventory, treasury, payroll, and tax compliance - with automated IVA calculation.
 
-**The problem:** A Colombian small business managed invoicing, inventory, and finances across disconnected spreadsheets and paper ledgers — with no automated tax calculation and no visibility into cash flow.
+**The problem:** A Colombian small business managed invoicing, inventory, and finances across disconnected spreadsheets and paper ledgers, with no automated tax calculation and no visibility into cash flow.
 
 **What I built:** A modular web ERP with more than 12 functional areas. The sales flow goes from quotation to invoice to payment collection, with every transaction automatically creating treasury movements. Purchases follow the same pattern. Inventory updates in real-time via Kardex entries on every sale or purchase. IVA (19%) is calculated and tracked automatically, with a dedicated tax report showing generated vs. deductible amounts. Role-based access (admin, accountant, sales, user) with Row-Level Security. Includes bulk data import for migration.
 
 **Integrations:** Supabase (Auth, PostgreSQL, Edge Functions, RLS)
 
-![Copain](https://raw.githubusercontent.com/ragarciaga/portfolio/main/screenshots/copain_erp.png)
+![Copain](https://github.com/ragarciaga/portfolio/blob/main/copain_erp.png)
 
 ---
 
@@ -105,11 +107,11 @@ These are end-to-end systems I designed and built — including the web applicat
 
 **Integrations:** Platforms API, Firecrawl, OpenAI, Google Sheets, Gmail
 
- ![Procuremen](https://raw.githubusercontent.com/ragarciaga/portfolio/main/screenshots/procurement_scanner.png)
+ ![Procuremen](https://github.com/ragarciaga/portfolio/blob/main/procurement_scanner.png)
 
 ---
 
-### 💳 ConsolidApp — Credit Advisory Tool
+### 💳 ConsolidApp - Credit Advisory Tool
 > Real-time debt-consolidation simulator for branch advisors at a Mexican credit union, with AI-powered assistant.
 
 **The problem:** Branch advisors at a Mexican credit union spent 15-30 minutes per client manually looking up bureau data, calculating loan scenarios in Excel, and preparing proposals. The process was slow, inconsistent across branches, and error-prone.
@@ -118,7 +120,7 @@ These are end-to-end systems I designed and built — including the web applicat
 
 **Integrations:** Supabase (PostgreSQL, Edge Functions), OpenAI, jsPDF
 
-![Consolidapp](https://raw.githubusercontent.com/ragarciaga/portfolio/main/screenshots/consolidapp.png)
+![Consolidapp](https://github.com/ragarciaga/portfolio/blob/main/consolidapp.png)
 
 ---
 
@@ -128,15 +130,15 @@ These are end-to-end systems I designed and built — including the web applicat
 |---|---|---|
 | **Ticket Tracker** | Web App | Ticket management + regulatory compliance tracking for a Mexican financial services company. Kanban board, 8 email notification templates, cron-based reminders, audit logging. |
 | **Resilience+** | Web App | Bilingual (EN/Nepali) cooperative insurance management for agricultural programs in Nepal. Member enrollment, crop purchases, claims lifecycle, fund ledger with Bikram Sambat calendar. |
-| **AkibaBot** | Web App | AI sales chatbot for a fintech company — 5-module guided flow with GPT-4.1, embedded videos, ROI simulator, and call scheduling CTA. |
-| **Reto Akiba** | Web App | Gamified financial education microsite — 5 modules with video, infographics, drag-and-drop quizzes, certificate generation, and lead capture. |
-| **Escuela CVI** | Web App | Private LMS for a ministry organization — invitation-based access, sequential course unlocking, student reflections, certificate issuance. |
-| **Impact Indicators** | Web + N8N | Multi-org survey wizard collecting text, audio, and file responses on KPI preferences — with auto-save, admin panel, and webhook processing. |
-| **Finmetrics** | Prototype | Profitability analytics dashboard for credit unions — waterfall charts, cost attribution, what-if simulators. Bilingual (EN/ES). *Demo data only.* |
-| **Gestiactivos** | Prototype | CMMS for healthcare biomedical equipment — asset lifecycle, PM scheduling, service requests (Kanban), KPI dashboard. *Client-side only.* |
-| **Akiba Telegram Bot** | N8N | RAG-powered Telegram bot for prospect education on employee savings plans — vector retrieval + GPT-4o-mini responses. |
+| **AkibaBot** | Web App | AI sales chatbot for a fintech company - 5-module guided flow with GPT-4.1, embedded videos, ROI simulator, and call scheduling CTA. |
+| **Reto Akiba** | Web App | Gamified financial education microsite - 5 modules with video, infographics, drag-and-drop quizzes, certificate generation, and lead capture. |
+| **Escuela CVI** | Web App | Private LMS for a ministry organization - invitation-based access, sequential course unlocking, student reflections, certificate issuance. |
+| **Impact Indicators** | Web + N8N | Multi-org survey wizard collecting text, audio, and file responses on KPI preferences - with auto-save, admin panel, and webhook processing. |
+| **Finmetrics** | Prototype | Profitability analytics dashboard for credit unions - waterfall charts, cost attribution, what-if simulators. Bilingual (EN/ES). *Demo data only.* |
+| **Gestiactivos** | Prototype | CMMS for healthcare biomedical equipment - asset lifecycle, PM scheduling, service requests (Kanban), KPI dashboard. *Client-side only.* |
+| **Akiba Telegram Bot** | N8N | RAG-powered Telegram bot for prospect education on employee savings plans - vector retrieval + GPT-4o-mini responses. |
 | **Voice-to-Data Logger** | N8N | Telegram voice notes → Whisper transcription → AI data extraction → Google Sheets. Built for agricultural field teams. |
-| **Automated Mailing** | N8N | Personalized batch email system for corporate campaigns — template-based with attachments and send-status tracking. |
+| **Automated Mailing** | N8N | Personalized batch email system for corporate campaigns - template-based with attachments and send-status tracking. |
 
 ---
 
@@ -170,10 +172,10 @@ These are end-to-end systems I designed and built — including the web applicat
 
 ## Let's Talk
 
-I work with organizations that need to go from manual processes to automated, AI-enhanced systems — and want someone who can own the full delivery: diagnosis, architecture, build, and deployment.
+I work with organizations that need to go from manual processes to automated, AI-enhanced systems, and want someone who can own the full delivery: diagnosis, architecture, build, and deployment.
 
 🔗 **[Connect on LinkedIn](https://linkedin.com/in/ragarciaga)**
 
 ---
 
-*Last updated: May 2026*
+*Last updated: Ago 2026*
