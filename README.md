@@ -2,18 +2,18 @@
 
 Hi, I'm Rafael 👋 
 
-**AI Implementation Specialist for Financial Health & Inclusion** and AI Taskforce member at BFA Global · LatAm + Africa · Open to remote roles  
+**AI Implementation Specialist for Financial Health & Inclusion** and AI Taskforce member at BFA Global · LatAm + Africa 
 ## What I do  
-I build AI workflows and automation systems that work in production, not demos. My focus is at the intersection of AI implementation and financial inclusion programs.  Currently I own the delivery of 3 AI workflows at BFA Global: 
+I build AI workflows and automation systems that work in production. My focus is at the intersection of AI implementation and financial inclusion and technical assistance programs.  Currently I own the delivery of 3 AI workflows at BFA Global: 
 - **Client Pipeline Builder** - ABM automation with account signal scoring
 - **RFP Intelligence Agent** - RFP fit assessment and response strategy
 - **Auto Extract Funding Opportunities** - Automated lead extraction
 
 ## What you'll find here
-This GitHub is a **portfolio of low-code and AI integration work**, not traditional software engineering output. Most projects are built with combinations of:  
-- Lovable / Cursor (frontend prototyping)
+This GitHub is a **portfolio of low/mid-code and AI integration work**, not traditional software engineering output. Most projects are built with combinations of:  
+- Claude Code / Cursor (frontend prototyping)
 - Supabase (backend / data)
-- n8n self-hosted (automation workflows)
+- N8N self-hosted (automation workflows)
 - Claude API + OpenAI API (LLM systems)
 - Python (basic, for scripts and data processing)
 
@@ -31,10 +31,6 @@ Alongside my role at BFA Global, I've built production systems for organizations
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ragarciaga)
-
----
-
-I build the full stack behind business automation, the web application, the AI backend, and the workflow engine that connects them. I work with clients in financial services, logistics, agriculture, and education across the US, Latin America, and the Caribbean. Most of my projects replace spreadsheet‑driven operations with production systems that run with minimal manual intervention.
 
 ---
 
