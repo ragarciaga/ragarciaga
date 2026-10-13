@@ -6,7 +6,7 @@ Hi, I'm Rafael 👋
 
 ## What I do
 
-I build automation and AI systems that run in production: monitoring and scoring agents, document intelligence, and pipelines that take repetitive work out of a team's week. Most of it is for operations and finance teams in emerging markets, where the data is dirty, the budget is a fraction of what the case assumes, and the system has to keep working after the consultant leaves.
+I build automation and AI systems that run in production: monitoring and scoring agents, document intelligence, and pipelines that take repetitive work out of a team's week. Most of it is for operations and finance teams in Latin America and Africa. The data is usually messy and the budget is small, so what I build has to keep working after I leave.
 
 ## What you'll find here
 
@@ -20,7 +20,7 @@ Most projects are built with combinations of:
 - Claude API + OpenAI API (LLM systems)
 - Python (basic, for scripts and data processing)
 
-I use AI assistants heavily in the process. The decisions about what to build, and what to leave alone, are mine.
+I use AI assistants a lot when I build. What gets built, and what stays out, I decide.
 
 ## My background
 
@@ -71,7 +71,7 @@ Systems I designed and built end to end, including the web application, the AI a
 ### 🎓 Maysachart - AI Trading Tutor
 > Full-stack EdTech SaaS that teaches retail traders methodology through an AI tutor backed by 40+ proprietary documents.
 
-**The problem:** Beginner traders buy courses but can't apply what they learned facing a real chart. Human mentoring doesn't scale, and existing tools offer signals, not education.
+**The problem:** Beginner traders buy courses but can't apply what they learned facing a real chart. Human mentoring doesn't scale, and existing tools give signals and skip the teaching.
 
 **What I built:** A freemium web platform where users chat with an AI tutor that retrieves answers from a vectorized knowledge base of trading methodology. The frontend handles auth, conversation management, market news filtered by tracked assets, and usage metering. The N8N backend handles JWT validation, plan-limit enforcement, RAG retrieval, prompt construction with conversation history, and response storage in one orchestrated workflow. A separate ingestion pipeline auto-processes new documents from Google Drive into the vector store.
 
@@ -85,7 +85,7 @@ Systems I designed and built end to end, including the web application, the AI a
 
 ## Case notes
 
-Client work, written the way I write about it publicly: no names, no client data, no screenshots of their operation. The architecture and the numbers are real.
+Client work, anonymized the same way I do it on LinkedIn. I leave out names, data and screenshots. The architecture and the numbers are real.
 
 ---
 
@@ -113,7 +113,7 @@ Client work, written the way I write about it publicly: no names, no client data
 
 ## Capabilities
 
-Types of systems I design and build. Descriptions are generic by design: specific implementations are covered by confidentiality, so no client names, no client data, and no screenshots of client operations.
+Types of systems I design and build. The descriptions are generic on purpose, because the specific work is confidential.
 
 | Capability | What it does |
 |---|---|
@@ -145,7 +145,7 @@ Types of systems I design and build. Descriptions are generic by design: specifi
 
 ## Let's Talk
 
-I work with organizations that want to move from manual processes to systems that run on their own, and that want someone who owns the whole thing: diagnosis, architecture, build, and what happens after it is deployed.
+I work with teams that spend hours every week on work a system could do. I take it from the diagnosis to the build, and I stay for what happens after it goes live, because that is where most of these projects break.
 
 🔗 [maysasp.com](https://maysasp.com) · [LinkedIn](https://linkedin.com/in/ragarciaga)
 
